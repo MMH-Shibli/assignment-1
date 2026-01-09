@@ -117,3 +117,21 @@ nav button{
     justify-content: center;
     margin: 0 auto;
 }
+#brain-container{
+    margin: 120px 120px 0;
+    display: flex;
+    justify-content: space-between;
+}
+#brain-content{
+    width: 700px;
+    height: fit-content;
+    margin: 102px 0;
+}
+#brain-content p{
+    font-size: 16px;
+    font-weight: 500;
+}
+#brain-content img{
+    height: 20px;
+    width: 20px;
+}
