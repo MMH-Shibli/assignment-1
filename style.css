@@ -72,6 +72,7 @@ nav button{
     color: #FFFFFF;
 }
 .btn{
+    cursor: pointer;
     background-color: transparent;
     color: aliceblue;
     height: 52px;
@@ -160,4 +161,10 @@ nav button{
 footer{
     background-color: #001931;
     padding: 120px 120px 30px;
+}
+.btn:hover{
+     color: blue;
+}
+nav button:hover{
+    color: blue;
 }
